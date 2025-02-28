@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "  XXXXX" << endl;
+    cout << "X"                           << endl;
+    cout << "X        X           X"  << endl;
+    cout << "X        X           X"  << endl;
+    cout << "X        X           X"  << endl;
+    cout << "X    XXXXXXXXX   XXXXXXXXX"  << endl;
+    cout << "X        X           X"  << endl;
+    cout << "X        X           X"  << endl;
+    cout << "X        X           X"  << endl;
+    cout <<  "  XXXXX"                     << endl;
+
+    return 0;
+}
