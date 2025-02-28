@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+float x , y , z ;
+
+cout << "Enter 3 number:" << endl;
+cin >> x >> y >> z ;
+
+float result = (x+y+z)/3 ;
+
+cout << "Avrage is:" << result << endl;
+
+
+    return 0;
+}
